@@ -15,6 +15,15 @@ A repository to hold the resources related to my talks/webinars/presentations.
      - **Mode**: Online
      - **Video**: https://www.youtube.com/watch?v=QG93uvylpoM&pp
      - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/CyberWarFare%20Labs/August%202023/OPSEC%20on%20the%20High%20Seas%3A%20A%20Gophish%20Adventure.pdf
+  
+3. **An Overview of Security vs Privacy vs Anonymity**
+     - **Organiser**: [The Cyber Crawler | tCc.](https://www.thecybercrawler.com/)
+     - **Date**: 03 February, 2024
+     - **Mode**: Online
+     - **Video**: https://youtu.be/c5xLAyrmzyw
+     - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/The%20Cyber%20Crawler%20%7C%20tCc./An%20Overview%20of%20Security%20vs%20Privacy%20vs%20Anonymity.pdf
+
+
 
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
