@@ -23,6 +23,13 @@ A repository to hold the resources related to my talks/webinars/presentations.
      - **Video**: https://youtu.be/c5xLAyrmzyw
      - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/The%20Cyber%20Crawler%20%7C%20tCc./An%20Overview%20of%20Security%20vs%20Privacy%20vs%20Anonymity.pdf
 
+4. **Tux’s Magic Hat: Tricks for Linux Persistence**
+     - **Organiser**: [CyberWarFare Labs](https://cyberwarfare.live/)
+     - **Date**: 08 July, 2024
+     - **Mode**: Online
+     - **Video**: https://youtu.be/Q7eIMFQtqoA
+     - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/CyberWarFare%20Labs/July%202024/Tux%E2%80%99s%20Magic%20Hat%3A%20Tricks%20for%20Linux%20Persistence.pdf
+     - **Command Reference**: https://github.com/wand3rlust/My-Presentations/blob/main/CyberWarFare%20Labs/July%202024/Demo%20Sheet.md
 
 
 # License
