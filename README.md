@@ -31,6 +31,12 @@ A repository to hold the resources related to my talks/webinars/presentations.
      - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/CyberWarFare%20Labs/July%202024/Tux%E2%80%99s%20Magic%20Hat%3A%20Tricks%20for%20Linux%20Persistence.pdf
      - **Command Reference**: https://github.com/wand3rlust/My-Presentations/blob/main/CyberWarFare%20Labs/July%202024/Demo%20Sheet.md
 
+5. **Tux's Magic Hat: Analysing AWS Flow Logs for Fun**
+     - **Organiser**: [The Hackers Meetup](https://thehackersmeetup.org/)
+     - **Date**: 28 July, 2024
+     - **Mode**: Offline
+     - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/The%20Hackers%20Meetup/July%202024/Tux's%20Magic%20Hat%3A%20Analysing%20AWS%20Flow%20Logs%20for%20Fun.pdf
+     - **Tool**: https://github.com/wand3rlust/Fairth
 
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
