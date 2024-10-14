@@ -38,6 +38,28 @@ A repository to hold the resources related to my talks/webinars/presentations.
      - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/The%20Hackers%20Meetup/July%202024/Tux's%20Magic%20Hat%3A%20Analysing%20AWS%20Flow%20Logs%20for%20Fun.pdf
      - **Tool**: https://github.com/wand3rlust/Fairth
 
+6. **Tux's Magic Hat: Analysing AWS Flow Logs for Fun**
+     - **Organiser**: [CyberWarFare Labs](https://cyberwarfare.live/)
+     - **Date**: 23 August, 2024
+     - **Mode**: Online
+     - **Video**: https://youtu.be/zOdZ5DIRpj8
+     - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/CyberWarFare%20Labs/August%202024/Tuxs-Magic-Hat_-Analysing-AWS-Flow-Logs-for-Fun.pdf
+     - **Tool**: https://github.com/wand3rlust/Fairth
+
+7. **The Science of Cloud Access: Demystifying IAM for Beginners**
+     - **Organiser**: [CyberWarFare Labs](https://cyberwarfare.live/)
+     - **Date**: 27 September, 2024
+     - **Mode**: Online
+     - **Video**: https://youtu.be/XBA9tmjTP98
+     - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/CyberWarFare%20Labs/September%202024/The-Science-of-Cloud-Access_-Demystifying-IAM-for-Beginners-Webinar.pdf
+
+7. **Attacking the cloud with RedCloud OS**
+     - **Organiser**: [CyberWarFare Labs](https://cyberwarfare.live/)
+     - **Date**: 11 October, 2024
+     - **Mode**: Online
+     - **Video**: 
+     - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/CyberWarFare%20Labs/October%202024/Attacking_the_cloud_with_RedCloud_OS.pdf
+
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
