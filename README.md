@@ -53,12 +53,19 @@ A repository to hold the resources related to my talks/webinars/presentations.
      - **Video**: https://youtu.be/XBA9tmjTP98
      - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/CyberWarFare%20Labs/September%202024/The-Science-of-Cloud-Access_-Demystifying-IAM-for-Beginners-Webinar.pdf
 
-7. **Attacking the cloud with RedCloud OS**
+8. **Attacking the cloud with RedCloud OS**
      - **Organiser**: [CyberWarFare Labs](https://cyberwarfare.live/)
      - **Date**: 11 October, 2024
      - **Mode**: Online
-     - **Video**: 
+     - **Video**: https://youtu.be/3ir3RgRAmfk
      - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/CyberWarFare%20Labs/October%202024/Attacking_the_cloud_with_RedCloud_OS.pdf
+
+9. **Unmasking the Trap: A Study of Canary Tokens**
+     - **Organiser**: [CyberWarFare Labs](https://cyberwarfare.live/)
+     - **Date**: 22 November, 2024
+     - **Mode**: Online
+     - **Video**: https://youtu.be/9m6BJ1UuMf8
+     - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/CyberWarFare%20Labs/November%202024/Unmasking-The-Trap_A-Study-of-Canary-Tokens.pdf
 
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
