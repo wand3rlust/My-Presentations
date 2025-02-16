@@ -67,6 +67,12 @@ A repository to hold the resources related to my talks/webinars/presentations.
      - **Video**: https://youtu.be/9m6BJ1UuMf8
      - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/CyberWarFare%20Labs/November%202024/Unmasking-The-Trap_A-Study-of-Canary-Tokens.pdf
 
+10. **OPSEC on the High Seas: A Gophish Adventure**
+     - **Organiser**: [Null Community](https://null.community/)
+     - **Date**: 15 February, 2025
+     - **Mode**: Offline
+     - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/Null%20Community/February%202025/OPSEC%20on%20the%20High%20Seas%3A%20A%20Gophish%20Adventure.pdf
+
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
