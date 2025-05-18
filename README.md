@@ -73,6 +73,13 @@ A repository to hold the resources related to my talks/webinars/presentations.
      - **Mode**: Offline
      - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/Null%20Community/February%202025/OPSEC%20on%20the%20High%20Seas%3A%20A%20Gophish%20Adventure.pdf
 
+11. **Introduction to DevOps Red Teaming**
+     - **Organiser**: [CyberWarFare Labs](https://cyberwarfare.live/)
+     - **Date**: 02 May, 2025
+     - **Mode**: Online
+     - **Video**: https://youtu.be/TE-Z8Uc-pG0
+     - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/CyberWarFare%20Labs/May%202025/Introduction_To_DevOps_Red_Teaming.pdf
+
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
