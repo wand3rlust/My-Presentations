@@ -80,6 +80,13 @@ A repository to hold the resources related to my talks/webinars/presentations.
      - **Video**: https://youtu.be/TE-Z8Uc-pG0
      - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/CyberWarFare%20Labs/May%202025/Introduction_To_DevOps_Red_Teaming.pdf
 
+12. **Malware Analysis 101 - Static Edition**
+     - **Organiser**: [CyberWarFare Labs](https://cyberwarfare.live/)
+     - **Date**: 30 May, 2025
+     - **Mode**: Online
+     - **Video**: https://youtu.be/2MQJ_dzh07Y
+     - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/CyberWarFare%20Labs/May%202025/Malware_Analysis_101-Static_Edition.pdf
+
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
