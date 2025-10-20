@@ -87,6 +87,12 @@ A repository to hold the resources related to my talks/webinars/presentations.
      - **Video**: https://youtu.be/2MQJ_dzh07Y
      - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/CyberWarFare%20Labs/May%202025/Malware_Analysis_101-Static_Edition.pdf
 
+13. **AI & Deepfake Phishing → How AI-powered Content is Reshaping Social Engineering**
+     - **Organiser**: Phishing Village @ c0c0n 2025
+     - **Date**: 11 Oct, 2025
+     - **Mode**: Offline
+     - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/c0c0n/Phishing%20Village/AI%20%26%20Deepfake%20Phishing%20%E2%86%92%20How%20AI-powered%20Content%20is%20Reshaping%20Social%20Engineering.pdf
+
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
