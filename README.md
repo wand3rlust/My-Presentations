@@ -88,10 +88,35 @@ A repository to hold the resources related to my talks/webinars/presentations.
      - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/CyberWarFare%20Labs/May%202025/Malware_Analysis_101-Static_Edition.pdf
 
 13. **AI & Deepfake Phishing → How AI-powered Content is Reshaping Social Engineering**
-     - **Organiser**: Phishing Village @ c0c0n 2025
+     - **Organiser**: [Phishing Village @ c0c0n 2025](https://phishing-village.org/)
      - **Date**: 11 Oct, 2025
      - **Mode**: Offline
      - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/c0c0n/Phishing%20Village/AI%20%26%20Deepfake%20Phishing%20%E2%86%92%20How%20AI-powered%20Content%20is%20Reshaping%20Social%20Engineering.pdf
+
+14. **Raining Tokens: A Curious Case of Azure DevOps**
+     - **Organiser**: [Bsides Vizag](https://bsidesvizag.in/)
+     - **Date**: 05 Dec, 2025
+     - **Mode**: Offline
+     - **Slides**: 
+
+15. **Deepfake Phishing → How AI-powered Content is Reshaping Social Engineering**
+     - **Organiser**: [Null Community](https://null.community/)
+     - **Date**: 13 Dec, 2025
+     - **Mode**: Offline
+     - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/Null%20Community/December%202025/Deepfake%20Phishing%20%E2%86%92%20How%20AI-powered%20Content%20is%20Reshaping%20Social%20Engineering.pdf
+   
+16. **Raining Tokens: A Curious Case of Azure DevOps**
+     - **Organiser**: [InfraSec Village @ Seasides 2026](https://infrasec-village.seasides.net/)
+     - **Date**: 19 Feb, 2026
+     - **Mode**: Offline
+     - **Slides**:
+   
+17. **Deepfake Phishing → How AI-powered Content is Reshaping Social Engineering**
+     - **Organiser**: [BIT-SEC-CON 0x2](https://bitseccon.idevsec.com/)
+     - **Date**: 12 Apr, 2026
+     - **Mode**: Online
+     - **Video**: 
+     - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/BIT-SEC-CON/April%202026/Deepfake%20Phishing%20%E2%86%92%20How%20AI-powered%20Content%20is%20Reshaping%20Social%20Engineering.pdf
 
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
