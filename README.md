@@ -117,6 +117,12 @@ A repository to hold the resources related to my talks/webinars/presentations.
      - **Mode**: Online
      - **Video**: 
      - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/BIT-SEC-CON/April%202026/Deepfake%20Phishing%20%E2%86%92%20How%20AI-powered%20Content%20is%20Reshaping%20Social%20Engineering.pdf
+   
+18. **Deepfake Phishing → How AI-powered Content is Reshaping Social Engineering**
+     - **Organiser**: [AI-SEC COMMUNITY](https://www.linkedin.com/company/ai-sec-community)
+     - **Date**: 25 Apr, 2026
+     - **Mode**: Offline
+     - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/AI-SEC%20Community/April%202026/Deepfake-Phishing_How-AI-Powered-Content-Is-Reshaping-Social-Engineering.pdf
 
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
