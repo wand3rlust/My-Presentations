@@ -124,6 +124,26 @@ A repository to hold the resources related to my talks/webinars/presentations.
      - **Mode**: Offline
      - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/AI-SEC%20Community/April%202026/Deepfake-Phishing_How-AI-Powered-Content-Is-Reshaping-Social-Engineering.pdf
 
+19. **RedCloud OS: Multicloud Adversary Simulation Operating System for Red Teams**
+     - **Organiser**: [VulnVon](https://www.linkedin.com/company/ai-sec-community)
+     - **Date**: 12 June, 2026
+     - **Mode**: Offline
+     - **Slides**: 
+
+20. **Automating Passive Web Application Recon With n8n & AI**
+     - **Organiser**: [CyberWarFare Labs](https://cyberwarfare.live/)
+     - **Date**: 17 July, 2026
+     - **Mode**: Online
+     - **Video**: https://www.youtube.com/watch?v=90aTcp3Z0vs
+     - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/CyberWarFare%20Labs/July%202026/Automating-Passive-Web-Application-Recon-with-n8n-AI.pdf
+
+21. **Authentication on Demand: Peeling Back the Passkey Layer**
+     - **Organiser**: [ZetaBrim Cyber Talks by VulnVon](https://www.linkedin.com/company/ai-sec-community)
+     - **Date**: 23 July, 2026
+     - **Mode**: Online
+     - **Slides**: 
+
+
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
