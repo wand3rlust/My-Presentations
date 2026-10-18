@@ -143,6 +143,13 @@ A repository to hold the resources related to my talks/webinars/presentations.
      - **Mode**: Online
      - **Slides**: 
 
+22. **Deepfake Phishing → How AI-powered Content is Reshaping Social Engineering**
+     - **Organiser**: [BrewingSec](https://brewingsec.net/)
+     - **Date**: 17 Oct, 2026
+     - **Mode**: Online
+     - **Video**: 
+     - **Slides**: https://github.com/wand3rlust/My-Presentations/blob/main/BrewingSec/October%202026/Deepfake-Phishing_How-AI-Powered-Content-Is-Reshaping-Social-Engineering.pdf
+
 
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
